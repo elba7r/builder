@@ -58,7 +58,7 @@ DocType: Communication,Unread Notification Sent,التنبيهات المرسل�
 apps/frappe/frappe/public/js/frappe/misc/tools.js +8,Export not allowed. You need {0} role to export.,التصدير غير مسموح. انت تحتاج للقاعده {0} حتى تتمكن من التصدير
 DocType: Email Group,Email Group,مجموعة البريد الالكتروني
 DocType: Note,Seen By,تمت رؤيته بواسطة
-apps/frappe/frappe/public/js/frappe/ui/filters/filters.js +662,Not Like,لا تعجبني
+apps/frappe/frappe/public/js/frappe/ui/filters/filters.js +662,Not Like,ليس مثل
 apps/frappe/frappe/custom/doctype/customize_form/customize_form.js +204,Set the display label for the field,حدد ملصق العرض للحقل
 apps/frappe/frappe/model/document.py +892,Incorrect value: {0} must be {1} {2},قيمة غير صحيحة: {0} يجب أن يكون {1} {2}
 apps/frappe/frappe/config/setup.py +237,"Change field properties (hide, readonly, permission etc.)",تغيير خصائص الحقل (إخفاء ، للقراءة فقط ، إذن الخ )
@@ -1485,7 +1485,7 @@ DocType: Event,Every Week,كل أسبوع
 apps/frappe/frappe/limits.py +188,Click here to check your usage or upgrade to a higher plan,انقر هنا للتحقق من الاستخدام الخاص بك أو الترقية إلى خطة أعلى
 DocType: Custom Field,Is Mandatory Field,هو حقل إلزامي
 DocType: User,Website User,مستخدم الموقع الالكتروني
-apps/frappe/frappe/public/js/frappe/ui/filters/edit_filter.html +10,Not equals,لا يساوي
+apps/frappe/frappe/public/js/frappe/ui/filters/edit_filter.html +10,Not Equals,لا يساوي
 DocType: Integration Request,Integration Request Service,طلب خدمة تكامل
 DocType: Website Script,Script to attach to all web pages.,النصي لنعلق على كل صفحات الويب.
 DocType: Web Form,Allow Multiple,السماح بالتعدد
